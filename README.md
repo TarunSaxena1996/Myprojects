@@ -1,2 +1,2 @@
 # Myprojects
-I Post up skilling projects here
+I Post projects here
